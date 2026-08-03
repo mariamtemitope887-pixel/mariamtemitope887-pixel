@@ -49,7 +49,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | ☁ Azure IAM | Microsoft Entra Identity | [View Project](https://github.com/mariamtemitope887-pixel/Azure-IAM) |
 | 🐧 Linux IAM | User & Permission Management | [View Project](https://github.com/mariamtemitope887-pixel/Linux-IAM) |
 | 🛡 Nessus | Network Vulnerability Management | [View Project](https://github.com/mariamtemitope887-pixel/Nessus) |
-| 📊 Qualys | Enterprise Vulnerability Management | [View Project]() |
+| 📊 Qualys | Enterprise Vulnerability Management | [View Project](https://github.com/mariamtemitope887-pixel/Qualys) |
 | ☁ Prowler | AWS Cloud Security Assessment | [View Project]() |
 | 🎯 Penetration Testing | Network & Web Security Testing | [View Project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [View Project]() |
