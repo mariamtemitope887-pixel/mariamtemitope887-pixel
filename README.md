@@ -46,7 +46,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🔐 AD CS | Enterprise Certificate Services | [View Project](https://github.com/mariamtemitope887-pixel/AD-CS) |
 | 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/mariamtemitope887-pixel/Active-Directory-GPO) |
 | ☁ AWS IAM | Identity & Access Management | [View Project](https://github.com/mariamtemitope887-pixel/AWS-IAM) |
-| ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
+| ☁ Azure IAM | Microsoft Entra Identity | [View Project](https://github.com/mariamtemitope887-pixel/Azure-IAM) |
 | 🐧 Linux IAM | User & Permission Management | [View Project](https://github.com/mariamtemitope887-pixel/Linux-IAM) |
 | 🛡 Nessus | Network Vulnerability Management | [View Project]() |
 | 📊 Qualys | Enterprise Vulnerability Management | [View Project]() |
