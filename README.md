@@ -56,7 +56,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection | [View Project](https://github.com/mariamtemitope887-pixel/MITRE-ATT-CK) |
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls | [View Project](https://github.com/mariamtemitope887-pixel/Framework-Mapping) |
 | 📧 Zphisher | Security Awareness Simulation | [View Project](https://github.com/mariamtemitope887-pixel/Zphisher) |
-| 🦠 Malware Analysis | Static & Dynamic Analysis | [View Project]() |
+| 🦠 Malware Analysis | Static & Dynamic Analysis | [View Project](https://github.com/mariamtemitope887-pixel/-Malware-Analysis) |
 
 ---
 
