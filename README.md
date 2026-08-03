@@ -47,7 +47,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/mariamtemitope887-pixel/Active-Directory-GPO) |
 | ☁ AWS IAM | Identity & Access Management | [View Project]() |
 | ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
-| 🐧 Linux IAM | User & Permission Management | [View Project]() |
+| 🐧 Linux IAM | User & Permission Management | [View Project](https://github.com/mariamtemitope887-pixel/Linux-IAM) |
 | 🛡 Nessus | Network Vulnerability Management | [View Project]() |
 | 📊 Qualys | Enterprise Vulnerability Management | [View Project]() |
 | ☁ Prowler | AWS Cloud Security Assessment | [View Project]() |
