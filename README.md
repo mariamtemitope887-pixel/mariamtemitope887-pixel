@@ -50,7 +50,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🐧 Linux IAM | User & Permission Management | [View Project](https://github.com/mariamtemitope887-pixel/Linux-IAM) |
 | 🛡 Nessus | Network Vulnerability Management | [View Project](https://github.com/mariamtemitope887-pixel/Nessus) |
 | 📊 Qualys | Enterprise Vulnerability Management | [View Project](https://github.com/mariamtemitope887-pixel/Qualys) |
-| ☁ Prowler | AWS Cloud Security Assessment | [View Project]() |
+| ☁ Prowler | AWS Cloud Security Assessment | [View Project](https://github.com/mariamtemitope887-pixel/Prowler) |
 | 🎯 Penetration Testing | Network & Web Security Testing | [View Project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [View Project]() |
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection | [View Project]() |
