@@ -44,7 +44,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |---------|-------------|-----------------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project](https://github.com/mariamtemitope887-pixel/Multi-VM-Cybersecurity-Lab) |
 | 🔐 AD CS | Enterprise Certificate Services | [View Project](https://github.com/mariamtemitope887-pixel/AD-CS) |
-| 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project]() |
+| 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/mariamtemitope887-pixel/Active-Directory-GPO) |
 | ☁ AWS IAM | Identity & Access Management | [View Project]() |
 | ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
 | 🐧 Linux IAM | User & Permission Management | [View Project]() |
