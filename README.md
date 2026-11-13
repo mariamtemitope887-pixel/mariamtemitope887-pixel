@@ -21,21 +21,37 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 ---
 
-# 🛡 Cybersecurity Portfolio
+## work experience | Halisans Technologies
 
-| Domain | Projects |
-|---------|----------|
-| 🏠 Lab Infrastructure | Virtual Home Lab |
-| 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
-| ☁ Cloud Security | AWS Secure Deployment • Azure Secure Deployment • Prowler |
-| 🛡 Vulnerability Management | Nessus • Qualys VMDR • Patch Management |
-| 🚨 Detection & Monitoring | Splunk SIEM • Log Analysis |
-| 🎯 Penetration Testing | Network Pentesting • Web Application Pentesting |
-| 🔎 Threat Hunting | MITRE ATT&CK • IOC Hunting • Detection Engineering |
-| 📊 Governance, Risk & Compliance | Security Policies • Risk Assessment • NIST CSF • ISO 27001 |
-| 📧 Security Awareness | Zphisher Simulation • Phishing Email Forensics |
-| 🦠 Malware Analysis | Static • Dynamic • Malicious PDF |
+**Role:** IAM Analyst  
+**Period:** 2003-2010
+**Environment:** Cybersecurity Operations
 
+**Responsibilities:**
+
+- Joiner–Mover–Leaver Workflow: Document authorized provisioning, changes and deprovisioning with approval and closure evidence.
+- Quarterly Access Review: Review entitlements, flag exceptions, record owner decisions and track remediation.
+- RBAC & Least Privilege: Design an entitlement matrix and validate group/role assignments.
+- AD and Entra ID Administration: Document identity configuration, GPOs and secure access controls.
+
+
+**Impact highlights:**
+- Implemented and tested identity and access management workflows within the HALISANS.COM Active Directory environment, covering user provisioning, role-based access control (RBAC), and Group Policy security configurations.
+
+- Developed identity lifecycle documentation covering Joiner, Mover, and Leaver (JML) processes, including access requests, approval workflows, provisioning, and account deactivation procedures.
+
+- Configured and evaluated security group permissions for HLS-SOC and other organizational groups to support role-based access and least-privilege principles.
+
+- Implemented access control documentation, RBAC entitlement matrices, and user access review records to upport consistent identity governance and audit readiness.
+
+## Featured case studies
+
+| Case study | What the reviewer will learn |
+|---|---|
+| [Joiner–Mover–Leaver Workflow](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow) | Documented authorized provisioning, changes and deprovisioning with approval and closure evidence. |
+| [Quarterly Access Review](./case-studies/02-quarterly-access-review/README.md) | Reviewed entitlements, flag exceptions, record owner decisions and track remediation. |
+| [RBAC & Least Privilege](./case-studies/03-rbac-and-least-privilege/README.md) | Implemented an entitlement matrix and validate group/role assignments. |
+| [AD and Entra ID Administration](./case-studies/04-ad-and-entra-id-administration/README.md) | Documented identity configuration, GPOs and secure access controls. |
 ---
 
 # ⭐ Featured Projects
