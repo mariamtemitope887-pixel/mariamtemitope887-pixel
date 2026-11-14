@@ -24,7 +24,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 ## work experience | Halisans Technologies
 
 **Role:** IAM Analyst  
-**Period:** 2026-present
+**Period:** 2026-Present
 **Environment:** Cybersecurity Operations
 
 **Responsibilities:**
